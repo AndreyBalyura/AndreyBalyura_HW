@@ -1,0 +1,61 @@
+body{
+    background-image: url("../HW 15.11.21/images/1.jpg");
+    background-size: contain;
+}
+.header{
+    border: 1px solid dodgerblue;
+    border-radius:20px;
+    width: 100%;
+    height: 100px;
+    background-image: url("../HW 15.11.21/images/2.jpg");
+    background-size: cover;
+    text-align: center;
+    }
+h2{
+    color: white;
+    text-align: center
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.photo{
+    float: left;
+    margin-top: 10px;
+    width: 30%;
+    height: 500px;
+}
+.name{
+    border: 1px solid dodgerblue;
+    border-radius:20px;
+    float: right;
+    margin-top: 10px;
+    width: 69%;
+    height: 100px;
+    background-image: url("../HW 15.11.21/images/2.jpg");
+    text-align: center;
+}
+.summary{
+    border: 1px solid dodgerblue;
+    border-radius:20px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    width: 30%;
+    height: 400px;
+    background-image: url("../HW 15.11.21/images/2.jpg");
+}
+.review{
+    border: 1px solid dodgerblue;
+    border-radius:20px;
+    float: right;
+    margin-top: 10px;
+    width: 30%;
+    height: 400px;
+    background-image: url("../HW 15.11.21/images/2.jpg");
+}
+
+ul{
+    list-style: square outside;
+    color: white;
+}

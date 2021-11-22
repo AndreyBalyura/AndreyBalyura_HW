@@ -1,0 +1,90 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+div{
+    position: relative;
+    width: 100px;
+    height: 50px;
+}
+.Red{
+    background-color: darksalmon;
+}
+.Yollow{
+    background-color: yellow;
+}
+.Blue{
+    background-color: dodgerblue;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.name{
+    position:absolute;
+    width: auto;
+    height: auto;
+    left: 0;
+    bottom:0;
+    font-weight: bold;
+}
+.number{
+    position: absolute;
+    width: auto;
+    height: auto;
+    right: 0;
+    top: 0;
+    font-weight: bold;
+}
+.mass{
+    position:absolute;
+    width:auto;
+    height: auto;
+    right: 0;
+    top: 20px;
+
+}
+.blue{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 80px;
+    top: 0;
+}
+.number2{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 0;
+    top: 0;
+    font-weight: bold;
+}
+.name2{
+    position:absolute;
+    width: auto;
+    height: auto;
+    right: 0;
+    bottom:0;
+    font-weight: bold;
+}
+.mass2{
+    position:absolute;
+    width:auto;
+    height: auto;
+    left: 0;
+    top: 20px;
+}
+.blue{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 55px;
+}
